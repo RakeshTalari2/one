@@ -571,7 +571,7 @@
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
                 <h1>Omkar Premium Picks</h1>
-                <p>Buy 1 get 3 free</p>
+                <p>Buy One get three free</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <i class="fas fa-arrow-right"></i></button>
                     <button class="btn btn-ghost" id="exploreDeals">Explore Deals</button>
