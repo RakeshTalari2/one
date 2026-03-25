@@ -570,7 +570,7 @@
         <!-- Hero -->
         <section class="hero" role="img" aria-label="Hero banner">
             <div class="container">
-                <h1>E-commerce_site_2</h1>
+                <h1>Pipeline-E-commerce</h1>
                 <p>Buy One get three free</p>
                 <div>
                     <button class="btn btn-primary" id="shopNow">Shop Now <i class="fas fa-arrow-right"></i></button>
